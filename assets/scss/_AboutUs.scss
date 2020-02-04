@@ -1,0 +1,88 @@
+.title{
+  margin-top: 90px;
+  margin-bottom: 120px;
+  text-align: center;
+
+  h1{
+    font-size: 90px;
+    color:#ccad53;
+    font-family: 'Playball', cursive;
+  }
+    h3{
+      position: absolute;
+      margin-left: 550px;
+      background-color: black;
+      color:white;
+      font-size: 20px;
+      padding: 5px;
+
+  }
+}
+
+.wrapper{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: 140px;
+
+  .round-img{
+    background-image: url('salmon.jpeg');
+    border-radius: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 450px;
+    width: 450px;
+    border: 10px solid #f0f0f0;
+
+  }
+
+  .info-right{
+
+    h1{
+      font-size: 20px;
+      font-weight: 550;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-bottom: 50px;
+    }
+      h2{
+        color: #7b7b7b;
+        font-size: 18px;
+        margin-bottom: 10px;
+        font-weight: 545;
+        margin-bottom: 30px;
+        line-height: 20px;
+      }
+      p{
+        color:#7b7b7b;
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 30px;
+      }
+
+      button{
+        margin-right: 20px;
+      }
+
+      .btn1{
+        background-color: #f0f0f0;
+        color:black;
+        padding: 8px 20px;
+        border-radius: 6%;
+        font-size: 15px;
+        text-transform: uppercase;
+        font-weight: 500;
+      }
+      .btn2{
+        background-color: black;
+        color:white;
+        padding: 8px 20px;
+        border-radius: 6%;
+        font-size: 15px;
+        text-transform: uppercase;
+        font-weight: 500;
+      }
+
+  }
+}

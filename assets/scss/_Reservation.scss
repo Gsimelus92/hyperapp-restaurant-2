@@ -1,0 +1,113 @@
+.reser-title h1{
+  text-align: center;
+  color:#ccad53;
+  font-size: 80px;
+  margin-top: 120px;
+  text-transform: capitalize;
+  font-family: 'Playball', cursive;
+}
+
+.reser-title h2{
+  position: absolute;
+  text-decoration: center;
+  background-color: black;
+  color: white;
+  margin-left: 520px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.booking-title{
+  text-align: center;
+  margin-top: 120px;
+}
+
+.booking-title h1{
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.booking-title p{
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #aaaaaa;
+  margin-bottom: 50px;
+}
+
+.booking-title strong{
+  color:#ccad53;
+}
+
+.reser-wrapper{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.form-left input{
+  padding: 15px 350px 15px 5px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.form-left p{
+  font-size: 13px;
+  margin-bottom: 5px;
+  margin-top: 15px;
+  font-weight: 550;
+}
+
+.form-left input{
+  background-color: #fcfcfc;
+}
+
+.form-left strong{
+    color:#ccad53;
+}
+
+.form-right input{
+  padding: 15px 350px 15px 5px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.form-right p{
+  font-size: 13px;
+  margin-bottom: 5px;
+  margin-top: 15px;
+  font-weight: 550;
+}
+
+.form-right strong{
+    color:#ccad53;
+}
+
+.form-right input{
+  background-color: #fcfcfc;
+}
+
+
+
+.text-box input{
+  padding-bottom: 105px;
+}
+
+.table-btn{
+  margin-top: 10px;
+  padding-right: 455px;
+  padding-left: 440px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  border-radius: 10px;
+  //margin-left: 450px;
+  color:white;
+  background-color: black;
+  font-size: 12px;
+  font-weight: 900px;
+}
+
+.table-btn p{
+  text-align: center;
+}

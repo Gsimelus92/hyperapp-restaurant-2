@@ -1,0 +1,393 @@
+#menu{
+  position: relative;
+
+}
+
+.wrapper{
+  position: relative;
+}
+
+.title h1{
+  text-align: center;
+  font-size: 80px;
+  color:red;
+  margin-top: 150px;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-family: 'Playball', cursive;
+}
+
+.title p{
+  background-color: black;
+  color:white;
+  position: absolute;
+  margin-left: 550px;
+  padding: 10px 10px;
+  font-size: 18px;
+  font-weight: 500;
+  word-spacing: 5px;
+}
+
+.left-food{
+
+  width:600px;
+}
+
+.left-food h2{
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 50px;
+}
+
+.small-imageL1{
+  background-color: #ccad53;
+  background-image: url('garlic.jpg');
+  height: 70px;
+  width: 70px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  margin-right: 200px;
+  margin-top: 250px;
+  margin-left: 150px;
+  position: absolute;
+  z-index: 50;
+}
+
+.l-f-1 h3{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 1px;
+  margin-left: 100px;
+}
+
+.l-f-1 p{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 100px;
+
+}
+
+.small-imageL2{
+  background-color: #ccad53;
+  background-image: url('mix-salad.jpg');
+  height: 70px;
+  width: 70px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  margin-right: 200px;
+  margin-top: 110px;
+  margin-left: 15px;
+  position: absolute;
+  z-index: 50;
+}
+
+.l-f-2 h3{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+
+.l-f-2 p{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 140px;
+  margin-left: 100px;
+}
+
+.small-imageL3{
+  background-color: #ccad53;
+  background-image: url('bbq-wings.jpg');
+  height: 70px;
+  width: 70px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  margin-right: 200px;
+  margin-top: 230px;
+  margin-left: 15px;
+  position: absolute;
+  z-index: 50;
+}
+.l-f-3 h3{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 240px;
+  margin-left: 100px;
+}
+
+.l-f-3 p{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 260px;
+  margin-left: 100px;
+}
+
+.left-food h4{
+  position: absolute;
+  font-size: 20px;
+  font-weight: 600;
+  //margin-top: 600px;
+  padding-top: 50px;
+
+}
+
+
+.small-imageL4{
+  background-color: #ccad53;
+  background-image: url('cake.jpeg');
+  height: 70px;
+  width: 70px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  margin-right: 200px;
+  margin-top: 420px;
+  margin-left: 15px;
+  position: absolute;
+  z-index: 50;
+}
+.l-f-4 h3{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 430px;
+  margin-left: 100px;
+}
+
+.l-f-4 p{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 450px;
+  margin-left: 100px;
+}
+
+
+.small-imageL5{
+  background-color: #ccad53;
+  background-image: url('cheesecake.jpeg');
+  height: 70px;
+  width: 70px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  margin-right: 200px;
+  margin-top: 530px;
+  margin-left: 15px;
+  position: absolute;
+  z-index: 50;
+}
+.l-f-5 h3{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 540px;
+  margin-left: 100px;
+}
+
+.l-f-5 p{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 560px;
+  margin-left: 100px;
+}
+
+/******************************************************************/
+
+.right-food h2{
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 50px;
+}
+
+.small-imageR1{
+  background-color: #ccad53;
+  background-image: url('pizza.jpeg');
+  height: 70px;
+  width: 70px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  margin-right: 200px;
+  //margin-top: 0px;
+  margin-left: 15px;
+  position: absolute;
+  z-index: 50;
+}
+
+.r-f-1 h3{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 1px;
+  margin-left: 100px;
+}
+
+.r-f-1 p{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 100px;
+
+}
+
+.small-imageR2{
+  background-color: #ccad53;
+  background-image: url('lasagna2.jpg');
+  height: 70px;
+  width: 70px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  margin-right: 200px;
+  margin-top: 100px;
+  margin-left: 15px;
+  position: absolute;
+  z-index: 50;
+}
+
+.r-f-2 h3{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+
+.r-f-2 p{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 140px;
+  margin-left: 100px;
+}
+
+.small-imageR3{
+  background-color: #ccad53;
+  background-image: url('meatballs.jpg');
+  height: 70px;
+  width: 70px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  margin-right: 200px;
+  margin-top: 200px;
+  margin-left: 15px;
+  position: absolute;
+  z-index: 50;
+}
+.r-f-3 h3{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 240px;
+  margin-left: 100px;
+}
+
+.r-f-3 p{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 260px;
+  margin-left: 100px;
+}
+
+.left-food h4{
+  position: absolute;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 320px;
+}
+
+.right-food h5{
+  font-size: 20px;
+  font-weight: 600;
+  margin-top:350px;
+  position: absolute;
+}
+
+
+
+.small-imageR4{
+  background-color: #ccad53;
+  background-image: url('beer.png');
+  height: 70px;
+  width: 70px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  margin-right: 200px;
+  margin-top: 420px;
+  margin-left: 15px;
+  position: absolute;
+  z-index: 50;
+}
+.r-f-4 h3{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 430px;
+  margin-left: 100px;
+}
+
+.r-f-4 p{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 450px;
+  margin-left: 100px;
+}
+
+
+.small-imageR5{
+  background-color: #ccad53;
+  background-image: url('white-wine.jpg');
+  height: 70px;
+  width: 70px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  margin-right: 200px;
+  margin-top: 530px;
+  margin-left: 15px;
+  position: absolute;
+  z-index: 50;
+}
+.r-f-5 h3{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 540px;
+  margin-left: 100px;
+}
+
+.r-f-5 p{
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  margin-top: 560px;
+  margin-left: 100px;
+
+}

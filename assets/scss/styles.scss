@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700");
+@import "reset";
+@import "Header";
+@import "TopImg";
+@import "AboutUs";
+@import  url("https://fonts.googleapis.com/css?family=Lobster|Playball&display=swap");
+@import "Menu";
+@import "QuoteOne";
+@import "OurStaff";
+@import "QuoteTwo";
+@import "Gallery";
+@import "QuoteThree";
+@import "Reservation";
+@import "Footer";
+
+body {
+
+  background: white;
+}
+
+.conatiner{
+  max-width:1000px;
+  margin: 0 auto;
+}
+
+.conatiner2{
+  //max-width: 1050px;
+  //margin: 0 auto;
+}
+
+.conatiner-T{
+  width:960px;
+}

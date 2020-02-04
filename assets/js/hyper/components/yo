@@ -1,0 +1,282 @@
+background-image: url('salmon.jpeg');
+height: 100px;
+width: 100px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+border-radius: 50%;
+//margin-right: 200px;
+//margin-top: 130px;
+//margin-left: 345px;
+position: relative;
+z-index: 100;
+
+
+
+background-image: url('spoons.jpeg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+
+
+height: 100%;
+  background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+
+ background:
+ linear-gradient(-45deg, black 16px, red 16px, blue 16px,  transparent 0),
+ linear-gradient(45deg, black 16px, transparent 0);
+ background-position: left top;
+ background-repeat: repeat-x;
+ background-size: 15px 32px;
+ content: " ";
+ display: block;
+ height: 32px;
+ width: 100%;
+ position: relative;
+ bottom: 0px;
+ left:0;
+
+
+
+
+ background:
+ linear-gradient(-45deg, black 16px, red 16px, blue 16px,  transparent 0),
+ linear-gradient(45deg, black 16px, transparent 0);
+  background-position: left top;
+  background-repeat: repeat-x;
+  background-size: 15px 32px;
+  content: " ";
+  display: block;
+  height: 32px;
+ width: 100%;
+  position: relative;
+ bottom: 12px;
+ left:0;
+}
+
+
+
+<div class="bottom-logo">
+  <h1>
+    hungry<strong>| established in 2019</strong>
+  </h1>
+
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+
+    //Tables
+    @media screen and (min-width: 960px) {
+      .conatiner-T{
+        width:960px;
+      }
+
+      .about .title h1{
+        //margin-bottom: 200px;
+      }
+      .about .title h3{
+        position: absolute;
+        margin-left:300px;
+      }
+
+      .about .round-img{
+        margin-left: 100px;
+      }
+      .about .info-right h1{
+        position: absolute;
+        margin-top: 500px;
+        margin-left: -445px;
+        //position: absolute;
+      }
+      .about .info-right h2 {
+        position: absolute;
+        margin-left: -440px;
+        margin-right: 60px;
+        margin-top: 550px;
+      }
+      .about .info-right p {
+        //position: absolute;
+        margin-left: -440px;
+        margin-right: 420px;
+        margin-top: 650px;
+      }
+      .about .info-right .btn1 {
+        //position: absolute;
+        margin-left: -390px;
+        margin-right: 9px;
+        margin-top: 30px;
+      }
+      .about .info-right .btn2 {
+        //position: absolute;
+        margin-left: 10px;
+        margin-right: 500px;
+        width: 155px;
+        //padding: 20px;
+        //margin-top: 3px;
+      }
+    }
+
+    @media screen and (max-width: 960px) {
+      .conatiner-T{
+        width:600px;
+      }
+
+      .about .title h1{
+        //margin-bottom: 200px;
+      }
+      .about .title h3{
+        position: absolute;
+        margin-left:300px;
+      }
+
+      .about .round-img{
+        margin-left: 100px;
+      }
+      .about .info-right h1{
+        position: absolute;
+        margin-top: 500px;
+        margin-left: -445px;
+        //position: absolute;
+      }
+      .about .info-right h2 {
+        position: absolute;
+        margin-left: -440px;
+        margin-right: 60px;
+        margin-top: 550px;
+      }
+      .about .info-right p {
+        //position: absolute;
+        margin-left: -440px;
+        margin-right: 420px;
+        margin-top: 650px;
+      }
+      .about .info-right .btn1 {
+        //position: absolute;
+        margin-left: -390px;
+        margin-right: 9px;
+        margin-top: 30px;
+      }
+      .about .info-right .btn2 {
+        //position: absolute;
+        margin-left: 10px;
+        margin-right: 500px;
+        width: 155px;
+        //padding: 20px;
+        //margin-top: 3px;
+      }
+    }
+
+    //cellphone
+    @media screen and (max-width: 600px) {
+      .conatiner{
+        width:100%;
+      }
+
+      .about .title h1{
+        //margin-bottom: 200px;
+      }
+      .about .title h3{
+        //position: absolute;
+        margin-left:200px;
+      }
+
+      .about .round-img{
+        margin-left: 20px;
+      }
+      .about .info-right h1{
+        //position: absolute;
+        //.margin-top: 500px;
+        margin-left: -455px;
+        //margin-top: 600px;
+        //position: absolute;
+      }
+      .about .info-right h2 {
+        //position: absolute;
+        margin-left: -440px;
+        margin-right: 130px;
+        //margin-top: 60px;
+        //margin-bottom: 30px;
+      }
+      .about .info-right p {
+        //position: absolute;
+        //margin-left: -440px;
+        margin-right: 350px;
+        margin-top: 670px;
+      }
+      .about .info-right .btn1 {
+        //position: absolute;
+        margin-left: -420px;
+        margin-right: 9px;
+        margin-top: 30px;
+        margin-bottom: 10px;
+        display: block;
+        padding: 10px 150px 10px 150px;
+      }
+      .about .info-right .btn2 {
+        //position: absolute;
+        //margin-left: 10px;
+        margin-left: -300px;
+        margin-right: 500px;
+        //width: 155px;
+        //display: block;
+        padding: 10px 30px 10px 30px;
+        //padding: 20px;
+        //margin-top: 3px;
+      }
+    }
+
+
+
+    //Tables
+    @media screen and (min-width: 960px) {
+      .conatiner-T{
+        width:960px;
+      }
+
+      .menu .title p{
+        //position: absolute;
+        //margin-left:-2000px;
+        margin-left:-100px;
+      }
+    }
+
+
+
+
+
+
+    background-color: #ccad53;
+    background-image: url('footer-food-1.jpeg');
+    height: 70px;
+    width: 70px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    margin-right: 200px;
+    margin-top: 130px;
+    margin-left: 345px;
+    position: absolute;
+
+
+
+    background-color: #ccad53;
+    background-image: url('spoons.jpeg');
+    height: 70px;
+    width: 70px;
+    //background-position: center;
+    //background-repeat: no-repeat;
+    //background-size: cover;
+    //border-radius: 50%;
+    //margin-right: 200px;
+    //margin-top: 130px;
+    //margin-left: 345px;
+    //position: absolute;
+    //z-index: 200;
